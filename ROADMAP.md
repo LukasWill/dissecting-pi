@@ -28,8 +28,6 @@ Stars are a lagging indicator. **External reproductions** are the leading one, b
 
 ## 2. Founding design decisions
 
-Each decision gets a short record in [`docs/decisions/`](docs/decisions/) when it is made or changed.
-
 | # | Decision | Choice | Why |
 |---|---|---|---|
 | D1 | Reference model | π0.5 (openpi `pi05`, LeRobot `pi05`) | Most widely used open VLA design; flow-matching action expert, FAST, and knowledge insulation are all public and documented |

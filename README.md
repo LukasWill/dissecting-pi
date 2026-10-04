@@ -117,8 +117,7 @@ dissecting-pi/
 │   └── eval/                 # sim harness + statistics
 ├── data_engine/              # scripted demos, augmentation, quality scoring
 └── docs/
-    ├── anatomy/              # π0.5 code map (openpi + LeRobot)
-    └── decisions/            # why the project itself is built this way
+    └── anatomy/              # π0.5 code map (openpi + LeRobot)
 ```
 
 ## Status
